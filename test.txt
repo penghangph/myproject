@@ -1,5 +1,0 @@
-hello world
-test 123
-var i=0;
-
-windows
